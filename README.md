@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **AI in FPT University**
 
-- 📫 Contact me **lienhe@duonghiep.com**
+- 📫 **lienhe@duonghiep.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/duong.hiep.0704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="duong.hiep.0704" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
