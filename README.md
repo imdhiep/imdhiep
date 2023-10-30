@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI in FPT University**
 
-- 📫 How to reach me **lienhe@duonghiep.com**
+- 📫 Contact me **lienhe@duonghiep.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
