@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dương Hiẹp</h1>
+<h1 align="center">Hi 👋, I'm Duong Van Hiep</h1>
 <h3 align="center">A passionate AI Engineering from VietNam</h3>
 
 - 🌱 I’m currently learning **AI in FPT University**
