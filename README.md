@@ -39,9 +39,3 @@
   </a>
 </p>
 
-<!-- 🔥 Language pie chart -->
-<p align="center">
-  <a href="https://github.com/imdhiep">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdhiep&layout=pie&langs_count=10&theme=transparent" alt="imdhiep's Top Languages" />
-  </a>
-</p>
