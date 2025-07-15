@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Van Hiep</h1>
-<h3 align="center">Second Prize at Huawei ICT Competition 2025 Global Final| AI Engineer Intern at @Denso </h3>
+<h3 align="center">Second Prize at Huawei ICT Competition 2025 Global Final | AI Engineer Intern at @Denso </h3>
 
 - 🌱 I’m currently learning **AI in FPT University**
 
